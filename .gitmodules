@@ -1,0 +1,4 @@
+[submodule "infotodoo/extended/account_extended"]
+	path = infotodoo/extended/account_extended
+	url = git@github.com:infotodoo/extended.git
+	branch = 18337
